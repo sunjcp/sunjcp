@@ -71,4 +71,4 @@ ICP-ACC  ICAgile Certified Agile Coach
 *The tools here are built for the problems I see in real engagements.*
 *If they are useful to your team, use them.*
 
-📩 gulia.sunil@gmail.com
+📩 sunjcp@gmail.com
